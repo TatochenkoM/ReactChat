@@ -1,0 +1,12 @@
+{
+  "name": "ReactFirebaseChat",
+  "displayName": "ReactFirebaseChat",
+  "expo": {
+    "name": "ReactFirebaseChat",
+    "slug": "ReactFirebaseChat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
